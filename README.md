@@ -1,9 +1,0 @@
-myproject/
-manage.py
-myapp2/
-__init__.py
-management/
-__init__.py
-commands/
-__init__.py
-my_command.py
