@@ -1,6 +1,6 @@
 
 from django.core.management.base import BaseCommand
-from myapp.models import Client
+from .models import Client
 from datetime import date
 
 class Command(BaseCommand):
